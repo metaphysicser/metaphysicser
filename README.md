@@ -4,7 +4,7 @@
 
 🎒 I'm a sophomore studying in school now
 
-🏣 My current studying fields are Data Mining, Machine Learing, Computer vision and so on...
+🏣 My current studying fields is Data Mining, Machine Learing, Computer vision and so on...
 
 ☎️ My email is zpl010720@qq.com, if you wanna contact with me
 
