@@ -2,10 +2,10 @@
 
 ### Hi there, this is metaphysicser 👋
 
-🎒 I'm a sophomore studying in school now
+🎒 I have been recommended to the School of Basic and Frontier, University of Electronic Science and Technology of China
 
-🏣 My current studying fields is Data Mining, Machine Learing, Computer vision and so on...
+🏣 My current studying fields is Bioinformatics
 
-☎️ My email is zpl010720@qq.com, if you wanna contact with me
+☎️ My Email is zpl010720@gmail.com, if you wanna contact with me
 
 
