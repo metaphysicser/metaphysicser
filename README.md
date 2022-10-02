@@ -4,7 +4,7 @@
 
 🎒 I have been recommended to the School of Basic and Frontier, University of Electronic Science and Technology of China
 
-🏣 My current studying fields is Bioinformatics
+🏣 My current studying field is Bioinformatics
 
 ☎️ My Email is zpl010720@gmail.com, if you wanna contact with me
 
