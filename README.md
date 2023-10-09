@@ -1,11 +1,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=metaphysicser&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there, this is metaphysicser 👋
+---
+🎒 Study at Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China
 
-🎒 I have been recommended to the School of Basic and Frontier, University of Electronic Science and Technology of China
+🏣 My current studying field is Bioinformatics. He is studying at [Prof.Quan Zou](http://lab.malab.cn/~zq/)'s Lab
 
-🏣 My current studying field is Bioinformatics
-
-☎️ My Email is zpl010720@gmail.com, if you wanna contact with me
+☎️ Email: zpl010720[at]gmail.com
 
 
