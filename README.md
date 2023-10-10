@@ -6,6 +6,6 @@
 
 🏣 My current studying field is Bioinformatics. He is studying at [Prof.Quan Zou](http://lab.malab.cn/~zq/)'s Lab
 
-☎️ Email: zpl010720[at]gmail.com
+☎️ Email: pingluzhang[at]outlook.com
 
 
