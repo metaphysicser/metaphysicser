@@ -4,7 +4,7 @@
 ---
 🎒 Study at Institute of Fundamental and Frontier Sciences, University of Electronic Science and Technology of China
 
-🏣 My current studying field is Bioinformatics. He is studying at [Prof.Quan Zou](http://lab.malab.cn/~zq/)'s Lab
+🏣 My current studying field is Bioinformatics. I'm studying at [Prof.Quan Zou](http://lab.malab.cn/~zq/)'s Lab
 
 ☎️ Email: pingluzhang[at]outlook.com
 
